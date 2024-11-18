@@ -1,4 +1,4 @@
-   //  Question 15  //
+   // A-2  Ques 15
 
 class Student{  
     int rollno;  
