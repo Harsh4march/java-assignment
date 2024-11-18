@@ -1,4 +1,4 @@
-  // Question 19 //
+  // A-1 Ques 19
 
   //PALINDROME
   import java.util.Scanner;
