@@ -1,4 +1,4 @@
-  // Question 20 // 
+  //A-1 Ques 20 
  
    //PRIME OR NOT
    import java.util.Scanner;
