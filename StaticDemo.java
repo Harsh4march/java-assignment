@@ -1,4 +1,4 @@
-   //  Question 16  //
+   // A-2 Ques 16
 
 public class StaticDemo {
 
