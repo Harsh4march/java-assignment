@@ -1,4 +1,4 @@
-  // Question 21  //
+  // A-1 Ques 21
 
       //BINARY TO DECIMAL AND DECIMAL TO BINARY
       import java.util.Scanner;
