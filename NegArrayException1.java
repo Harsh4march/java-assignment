@@ -1,4 +1,4 @@
-   //  Question 20  //
+   // A-2 Ques 20
 
 public class NegArrayException1 {
     public static void main(String[] args) {
