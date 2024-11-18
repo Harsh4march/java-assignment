@@ -1,4 +1,4 @@
- // Question 16 //
+ // A-1 Ques 16
 
  import java.util.Scanner;
 
