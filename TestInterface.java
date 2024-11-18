@@ -1,4 +1,4 @@
-   //  Question 18  //
+   //A-2  Ques 18
 
 interface Interface1 {
     void method1();
