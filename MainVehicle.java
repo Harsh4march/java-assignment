@@ -1,4 +1,4 @@
-   //  Question 10  //
+   // A-2 Ques 10
 
 class Vehicle {
 
