@@ -1,4 +1,4 @@
-   //  Ques 12
+   // A-2 Ques 12
 
 class Distance {
     protected double distanceMiles;
