@@ -1,4 +1,4 @@
-// question 5//
+// A-1 ques 5
 import java.util.Scanner;
 
 public class MathUnitConversions7 {
